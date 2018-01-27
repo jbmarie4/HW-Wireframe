@@ -1,8 +1,11 @@
 body{
+    background-color:#777;
     width:960px;
     margin:0 auto;
 }
 header{
+    background-color:#ebebeb;
+    width:960px;
 
 }
 nav{
@@ -12,10 +15,15 @@ footer{
 
 }
 section{
-
+    background-color:#ebebeb;
+    width:495px;
 }
-aside{
-
+aside.aside{
+    background-color:#ebebeb;
+    width:30%;
+    float:right;
+    margin:1px
+    margin-right: 0%
 }
 article{
 
@@ -26,6 +34,7 @@ article{
 h1{
 
 }
-p{
+p.text{
+    color:darkgray;
 
 }
